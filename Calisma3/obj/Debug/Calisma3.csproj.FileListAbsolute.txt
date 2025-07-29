@@ -1,0 +1,7 @@
+C:\Users\DRAGON\source\repos\Calisma3\Calisma3\bin\Debug\Calisma3.exe.config
+C:\Users\DRAGON\source\repos\Calisma3\Calisma3\bin\Debug\Calisma3.exe
+C:\Users\DRAGON\source\repos\Calisma3\Calisma3\bin\Debug\Calisma3.pdb
+C:\Users\DRAGON\source\repos\Calisma3\Calisma3\obj\Debug\Calisma3.csproj.AssemblyReference.cache
+C:\Users\DRAGON\source\repos\Calisma3\Calisma3\obj\Debug\Calisma3.csproj.CoreCompileInputs.cache
+C:\Users\DRAGON\source\repos\Calisma3\Calisma3\obj\Debug\Calisma3.exe
+C:\Users\DRAGON\source\repos\Calisma3\Calisma3\obj\Debug\Calisma3.pdb
